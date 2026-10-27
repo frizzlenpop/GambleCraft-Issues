@@ -17,3 +17,8 @@ GambleCraft must be installed on the server and on each player's client, using t
 ## About this repository
 
 This repository contains the public issue tracker and support information. The GambleCraft source code is maintained separately.
+## Licence
+
+GambleCraft is [All Rights Reserved](LICENSE). You may download and play official releases and record, stream, and monetize gameplay. Modified versions, unofficial ports, and reuploads require the author's permission. See the full licence for the complete terms.
+
+The GambleCraft licence governs the mod and its author's material; it does not claim ownership of independently authored bug reports or other user submissions.
