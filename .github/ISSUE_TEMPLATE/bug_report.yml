@@ -13,7 +13,7 @@ body:
     attributes:
       label: GambleCraft version
       description: Use the complete version or JAR filename from your mods folder.
-      placeholder: gamblecraft-forge-1.20.1-1.1.0.jar
+      placeholder: gamblecraft-forge-1.20.1-1.0.0.jar
     validations:
       required: true
   - type: input
